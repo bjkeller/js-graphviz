@@ -1,0 +1,14 @@
+{
+  "name": "d3-play",
+  "version": "0.0.0",
+  "description": "trying out graphs in d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Keller",
+  "license": "MIT",
+  "devDependencies": {
+    "d3": "^3.4.4"
+  }
+}

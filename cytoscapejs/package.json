@@ -1,0 +1,17 @@
+{
+  "name": "cytoscape-play",
+  "version": "0.0.0",
+  "description": "experimentation with cytoscape.js for graph viz",
+  "main": "examplegraph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 8000"
+  },
+
+  "author": "Ben Keller",
+  "license": "MIT",
+  "devDependencies": {
+    "cytoscape": "^2.2.2",
+    "http-server": "^0.6.1"
+  }
+}
