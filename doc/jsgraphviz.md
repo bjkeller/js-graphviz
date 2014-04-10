@@ -48,9 +48,9 @@ You may want to peak at the `html` files, since I'll mostly go through the JavaS
 I use `npm` to pull down the libraries as local dependencies, so you'll need to
 have it installed to follow along.
 
-- [Cytoscape.js](./cytoscapejs.html)
-- [D3.js](./d3graph.html)
-- [Sigma.js](./sigmajs.html)
+- [Cytoscape.js](./cytoscapejs.md)
+- [D3.js](./d3graph.md)
+- [Sigma.js](./sigmajs.md)
 
 ##Getting started
 
